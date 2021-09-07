@@ -1,0 +1,8 @@
+{
+  "name": "dalier",
+  "workspaces": [
+    "backend",
+    "ui",
+    "commons"
+  ]
+}
